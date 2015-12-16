@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = class RotatingBuffer {
+module.exports = class PivotBuffer {
     constructor(size) {
         this.size = size;
         this.$buffer = new Buffer(size);
