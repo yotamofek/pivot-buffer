@@ -1,7 +1,5 @@
 'use strict';
 
-var _ = require('lodash');
-
 module.exports = class RotatingBuffer {
     constructor(size) {
         this.size = size;

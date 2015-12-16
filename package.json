@@ -20,9 +20,7 @@
     "url": "https://github.com/yotamofek/pivot-buffer/issues"
   },
   "homepage": "https://github.com/yotamofek/pivot-buffer#readme",
-  "dependencies": {
-    "lodash": "^3.10.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
