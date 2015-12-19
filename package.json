@@ -1,6 +1,6 @@
 {
   "name": "pivot-buffer",
-  "version": "0.0.1-alpha.3",
+  "version": "0.1.0",
   "description": "Rotating buffer for node.js",
   "main": "index.js",
   "scripts": {
