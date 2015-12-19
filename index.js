@@ -11,7 +11,7 @@ module.exports = class PivotBuffer {
     }
     
     append(buffer) {
-        if (buffer.length == 0) {
+        if (buffer.length === 0) {
             return;
         }
 
