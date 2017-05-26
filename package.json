@@ -22,7 +22,7 @@
   "homepage": "https://github.com/yotamofek/pivot-buffer#readme",
   "dependencies": {},
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^4.0.0",
     "mocha": "^3.2.0"
   }
 }
